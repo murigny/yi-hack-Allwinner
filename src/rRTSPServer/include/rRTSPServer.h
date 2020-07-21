@@ -37,7 +37,7 @@
 
 #define BUFFER_FILE "/dev/shm/fshare_frame_buf"
 #define BUF_OFFSET 300
-#define BUF_SIZE 1786156
+#define BUF_SIZE 1851692
 #define FRAME_HEADER_SIZE 22
 
 #define MILLIS_10 10000
@@ -49,7 +49,7 @@
 #define RESOLUTION_BOTH 1440
 
 #define OUTPUT_BUFFER_SIZE_LOW  32768
-#define OUTPUT_BUFFER_SIZE_HIGH 131072
+#define OUTPUT_BUFFER_SIZE_HIGH 163840
 
 typedef struct
 {
